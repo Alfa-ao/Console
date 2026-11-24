@@ -3,7 +3,7 @@
 Консольное окно для вывода любой информации.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alfa-ao/Console/refs/heads/main/Console.png" width="300px">
+  <img src="https://raw.githubusercontent.com/Alfa-ao/Console/refs/heads/main/Console.png">
 </p>
 
 Вызвать консоль
