@@ -15,7 +15,7 @@
 
 - Содержит следующие библиотеки:
     - [SyntaxHighlighter](https://github.com/Alfa-ao/SyntaxHighlighter) - Токенизатор. Подсветка текста.
-    - [var_dump](https://github.com/Alfa-ao/var_dump) - Дамб любой информации.
+    - [var_dump](https://github.com/Alfa-ao/var_dump) - Дебаг любой информации.
 - Консоль прекрасно работает в сочетании с установленной библиотекой [DebugService](https://github.com/Alfa-ao/DebugService) на стороне `аддона`. Т.е. ничего не надо настраивать в ручную.
 - Реализуются три пользовательских событий.
     - `CONSOLE_USERADDON_SEND_PING` - Консоль сообщает о готовности.
