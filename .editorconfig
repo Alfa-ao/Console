@@ -1,0 +1,5 @@
+[*.{lua,xdb}]
+charset = utf-8
+
+[*.txt]
+charset = utf-16le

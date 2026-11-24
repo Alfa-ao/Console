@@ -1,0 +1,23 @@
+{
+    "name": "Console",
+    "description": "",
+    "type": "Addon",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alfa-ao"
+        }
+    ],
+    "require": {
+        "api": "17.0.01.85",
+        "useCommonScripts": true,
+        "Alfa-ao/DnDManager": "v1.4.3.133",
+        "Alfa-ao/var_dump": "v1.5.2.7",
+        "Alfa-ao/SyntaxHighlighter": "v1.0.0.2"
+    },
+    "files": {
+        "Scripts/Config.lua": 50,
+        "Scripts/Main.lua": 10
+    }
+}

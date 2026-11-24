@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetCss>
+	<Id>SyntaxHighlighter</Id>
+	<Selectors>
+		<Item>
+			<Name>c_keyword</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFFC586C0</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x20C586C0</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_string</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFFFFA657</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x20FFA657</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_comment</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFF6A9955</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x206A9955</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_number</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFFB5CEA8</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x20B5CEA8</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_function</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFFDCDCAA</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x20DCDCAA</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_variable</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFF9CDCFE</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x209CDCFE</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_boolean</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFF569CD6</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x20569CD6</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_type</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFF4EC9B0</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x204EC9B0</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_operator</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFFD4D4D4</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x20D4D4D4</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_text</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFFD4D4D4</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x20D4D4D4</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_bracket_1</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFFFFD700</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x20FFD700</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_bracket_2</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFFC586C0</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x20C586C0</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+		<Item>
+			<Name>c_bracket_3</Name>
+			<Items>
+				<Item>
+					<Key>color</Key>
+					<Value>0xFF569CD6</Value>
+				</Item>
+				<Item>
+					<Key>fontname</Key>
+					<Value>AllodsSystem</Value>
+				</Item>
+				<Item>
+					<Key>fontsize</Key>
+					<Value>14</Value>
+				</Item>
+				<Item>
+					<Key>alignx</Key>
+					<Value>left</Value>
+				</Item>
+				
+				
+				<Item>
+					<Key>outline</Key>
+					<Value>1</Value>
+				</Item>
+				<Item>
+					<Key>outlinecolor</Key>
+					<Value>0x20569CD6</Value>
+				</Item>
+				
+				
+			</Items>
+		</Item>
+	</Selectors>
+</WidgetCss>

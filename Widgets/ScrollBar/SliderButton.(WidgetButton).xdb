@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetButton>
+	<Name>SliderButton</Name>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>11</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>64</Size>
+		</Y>
+	</Placement>
+	<Variants>
+		<Item>
+			<StateNormal>
+				<LayerMain href="../../Textures/Scroll/ScrollThumb/ScrollThumbNormal.(WidgetLayerSimpleTexture).xdb" />
+			</StateNormal>
+			<StateDisabled>
+				<LayerMain href="../../Textures/Scroll/ScrollThumbDisabled/ScrollThumbDisabled.(WidgetLayerSimpleTexture).xdb" />
+			</StateDisabled>
+		</Item>
+	</Variants>
+</WidgetButton>

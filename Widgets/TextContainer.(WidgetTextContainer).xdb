@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetTextContainer>
+	<Name>TextContainer</Name>
+	<Children>
+		<Item href="Close.(WidgetButton).xdb" />
+		<Item href="DragResize/DragBottomRight.(WidgetButton).xdb" />
+	</Children>
+	<BackLayer href="../Textures/Background/Background.(WidgetLayerTiledTexture).xdb" />
+	<formatFileRef href="../Texts/ContainerFormat.txt" />
+	<defaultTag>text</defaultTag>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>400</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_CENTER</Align>
+			<Size>200</Size>
+		</Y>
+	</Placement>
+	<border href="Border.(WidgetPanel).xdb" />
+	<widgetsArrangement>WIDGETS_ARRANGEMENT_B2T</widgetsArrangement>
+	<scrollBar href="ScrollBar/ScrollBar.(WidgetGlideScrollBar).xdb" />
+	<elementsLimit>15</elementsLimit>
+	<rotateOnLimit>true</rotateOnLimit>
+</WidgetTextContainer>

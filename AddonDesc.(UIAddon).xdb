@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UIAddon>
+    <Name>Console</Name>
+    <Form href="Widgets/Main.(WidgetForm).xdb" />
+    <userAddonInfo>
+        <name href="AddonName.txt" />
+        <author>Alfa-ao</author>
+        <version>1.0.0</version>
+        <apiVersion>18000000</apiVersion>
+        <useCommonScripts>true</useCommonScripts>
+    </userAddonInfo>
+    <ScriptFileRefs>
+        <Item href="Scripts/Config.lua" />
+        <Item href="Packages/Alfa-ao/Debug/var_dump.lua" />
+        <Item href="Packages/Alfa-ao/SyntaxHighlighter/SyntaxHighlighter.lua" />
+        <Item href="Packages/Alfa-ao/DnDManager/src/DnDManager.lua" />
+        <Item href="Scripts/Main.lua" />
+    </ScriptFileRefs>
+    <styleSheets>
+        <Item href="Packages/Alfa-ao/SyntaxHighlighter/Styles.(WidgetCss).xdb" />
+    </styleSheets>
+</UIAddon>

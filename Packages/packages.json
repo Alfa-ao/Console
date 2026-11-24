@@ -1,0 +1,56 @@
+{
+    "version": "v2",
+    "packages": [
+        {
+            "name": "SyntaxHighlighter",
+            "type": "Library",
+            "execute": {
+                "unpack": [
+                    "SyntaxHighlighter.lua",
+                    "Styles.(WidgetCss).xdb"
+                ]
+            },
+            "files": {
+                "/Mods/SampleCommon/CoreScripts/AddonBase.lua": 100,
+                "SyntaxHighlighter.lua": 20
+            },
+            "tag": "Alfa-ao/SyntaxHighlighter",
+            "version": "v1.0.0.2",
+            "sha": "be704381c21d3e81bc20aa0e97622bfd561a54bc"
+        },
+        {
+            "name": "DnDManager",
+            "type": "Library",
+            "execute": {
+                "unpack": [
+                    "src/DnDManager.lua"
+                ]
+            },
+            "files": {
+                "/Mods/SampleCommon/CoreScripts/ClassesImplementation.lua": 100,
+                "/Mods/SampleCommon/CoreScripts/AddonBaseUserMods.lua": 100,
+                "/Mods/SampleCommon/CoreScripts/AddonBase.lua": 100,
+                "/Mods/SampleCommon/CoreScripts/AdvancedHandlersUserMods.lua": 100,
+                "src/DnDManager.lua": 20
+            },
+            "tag": "Alfa-ao/DnDManager",
+            "version": "v1.4.3.133",
+            "sha": "5a3ab6ec0e86aa338c84f61da3c16f3e70604017"
+        },
+        {
+            "name": "Debug",
+            "type": "Library",
+            "execute": {
+                "unpack": [
+                    "var_dump.lua"
+                ]
+            },
+            "files": {
+                "var_dump.lua": 21
+            },
+            "tag": "Alfa-ao/var_dump",
+            "version": "v1.5.2.7",
+            "sha": "7537f9e7f6fad12c00190808b81a984186e87199"
+        }
+    ]
+}

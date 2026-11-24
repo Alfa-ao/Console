@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetGlideScrollBar>
+	<Name>ScrollBar</Name>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_HIGH</Align>
+			<HighPos>12</HighPos>
+			<Size>11</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+			<Pos>30</Pos>
+			<HighPos>30</HighPos>
+		</Y>
+	</Placement>
+	<slider href="Slider.(WidgetGlideSlider).xdb" />
+</WidgetGlideScrollBar>

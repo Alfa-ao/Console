@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WidgetGlideSlider>
+	<Name>Slider</Name>
+	<Placement>
+		<X>
+			<Align>WIDGET_ALIGN_LOW</Align>
+			<Size>11</Size>
+		</X>
+		<Y>
+			<Align>WIDGET_ALIGN_BOTH</Align>
+		</Y>
+	</Placement>
+	<discreteStep>40</discreteStep>
+	<sliderButton href="SliderButton.(WidgetButton).xdb" />
+	<moveArrangement>WIDGETS_ARRANGEMENT_B2T</moveArrangement>
+</WidgetGlideSlider>
